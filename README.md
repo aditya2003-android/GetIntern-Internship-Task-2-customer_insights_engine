@@ -1,6 +1,6 @@
 # E-Commerce Customer Insights Engine
 
-- **Author:** Teki Mohit Sai Tulasi
+- **Author:** Animireddy Srinu
 - **Program:** GetIntern.in 8-Week Practical Data Science & ML Internship
 - **Phase 1 / Week 2 Milestone Project:** Merging Tables & Calculating Business Metrics
 
